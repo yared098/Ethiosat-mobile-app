@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1088395408912",
+    "firebase_url": "https://ethiosat-list-default-rtdb.firebaseio.com",
+    "project_id": "ethiosat-list",
+    "storage_bucket": "ethiosat-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088395408912:android:75045c988f833bc14abc95",
+        "android_client_info": {
+          "package_name": "com.example.ethio_sat_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088395408912-5ib0pma7mt7nt6feqpgnjal2g917k2d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0VHvd1_hBcCg42Uhp81_ZjKkx9Q61g04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088395408912-5ib0pma7mt7nt6feqpgnjal2g917k2d3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088395408912:android:dbb72adb519ad99f4abc95",
+        "android_client_info": {
+          "package_name": "com.example.ethiosat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088395408912-5ib0pma7mt7nt6feqpgnjal2g917k2d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0VHvd1_hBcCg42Uhp81_ZjKkx9Q61g04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088395408912-5ib0pma7mt7nt6feqpgnjal2g917k2d3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
